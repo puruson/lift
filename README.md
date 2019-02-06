@@ -1,2 +1,2 @@
-# lift
+# TestGit
 Test scripts using selenium
